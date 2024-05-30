@@ -1,0 +1,38 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h1,
+h2 {
+    background-color: darkblue;
+    color: white;
+}
+
+h1.main-title {
+    text-align: center;
+} 
+
+ul.main-list {
+    font-size: 24px;
+}
+
+ul.main-list li h2 {
+    background-color: lightgreen;
+    color: black;
+}
+
+.homelink {
+    background-color: yellowgreen;
+}
+
+.recipe-page {
+    .description,
+    .ingredients,
+    .steps {
+        font-size: 18px;
+    }
+}
